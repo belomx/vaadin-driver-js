@@ -17,6 +17,8 @@ types.d.ts
 
 dependency_tree.txt
 
+/.settings/
+
 _sokrates/reports
 src/main/resources/mapbox_default.properties
 /src/test/resources/personal/

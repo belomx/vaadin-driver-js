@@ -21,7 +21,7 @@ import com.vaadin.flow.component.dependency.NpmPackage;
 @Tag("vaadin-driver-js")
 @CssImport("driver.js/dist/driver.min.css")
 @JsModule("./addon/driverjs/driver-js.js")
-@NpmPackage(value = "driver.js", version = "0.9.7")
+@NpmPackage(value = "@belomx/driver.js", version = "0.9.9")
 public class DriverJS extends Component implements HasStyle, HasSize {
 
     private static final long serialVersionUID = 1L;
