@@ -5,7 +5,7 @@
 
     <groupId>org.vaadin.addon</groupId>
     <artifactId>vaadin-driver-js</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <name>Driver component</name>
     <description>Integration of Driver js component for Vaadin 17</description>
