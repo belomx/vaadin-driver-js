@@ -19,6 +19,8 @@ dependency_tree.txt
 
 /.settings/
 
+/.vscode/
+
 _sokrates/reports
 src/main/resources/mapbox_default.properties
 /src/test/resources/personal/
