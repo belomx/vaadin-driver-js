@@ -1,5 +1,5 @@
 import { LitElement } from 'lit-element';
-import  Driver from 'driver.js';
+import  Driver from '@belomx/driver.js';
 
 class VaadinDriverJS extends LitElement {  	
 
